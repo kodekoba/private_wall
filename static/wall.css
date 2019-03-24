@@ -1,0 +1,55 @@
+/* *{
+    outline: 2px dotted hotpink;
+} */
+img{
+    height: 11%;
+    width: 9%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+span.moveover{
+    margin-right: 20px;
+}
+span.green{
+    color: rgb(67, 165, 67);
+}
+div.main{
+    display: inline-block;
+    width: 48%;
+    margin:30px 0px 30px 0px;
+    padding: 0px 30px 0px 30px;
+    vertical-align: top;
+}
+div.left{
+    padding-top: 20px;
+    width: 85%;
+    display: inline-block;
+}
+div.sendmsgs{
+    border-left: 2px solid black;
+}
+div.send{
+    padding: 10px 0px;
+}
+h3{
+    text-decoration: black;
+}
+h4.whosaidwhat{
+    padding-left:20%;
+}
+h4.green{
+    color: rgb(67, 165, 67);
+}
+h5{
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+}
+form{
+    margin-bottom: -10px;
+}
+button{
+    margin-left: 90%;
+    margin-top: -110px;
+    display: inline-block;
+}
